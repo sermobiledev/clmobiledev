@@ -1,13 +1,9 @@
-<h1 align="center">Hi 👋, I'm Bill Clarke</h1>
+<h1 align="center">Hi 👋
 <h3 align="center">React native, Swift</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clmobiledev&label=Profile%20views&color=0e75b6&style=flat" alt="clmobiledev" /> </p>
 
-- 🌱 I’m currently working **React native, Swift**
 
-- 💬 Ask me about **React native, Swift**
-
-- 📫 How to reach me **clarkebill966@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
